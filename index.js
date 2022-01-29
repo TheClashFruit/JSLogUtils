@@ -16,4 +16,11 @@ class JSLogUtils {
   }
 }
 
+JSLogUtils.PREFIX = {
+  ERROR: 0,
+  DEBUG: 1,
+  INFO: 2,
+  WARNING: 3
+}
+
 module.exports = JSLogUtils;
