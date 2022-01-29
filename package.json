@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/TheClashFruit/JSLogUtils.git"
+    "url": "git+https://github.com/TheClashFruit/JSLogUtils.git"
   },
   "author": "TheClashFruit",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://gitlab.com/TheClashFruit/JSLogUtils/issues"
+    "url": "https://github.com/TheClashFruit/JSLogUtils/issues"
   },
-  "homepage": "https://gitlab.com/TheClashFruit/JSLogUtils#readme",
+  "homepage": "https://github.com/TheClashFruit/JSLogUtils#readme",
   "publishConfig": {
     "name": "jslogutils"
   }
